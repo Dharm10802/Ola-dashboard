@@ -8,6 +8,9 @@ This project presents an interactive Power BI dashboard for OLA’s July 2024 da
 ##
 🟢  **Overall Summary**
 
+
+<img width="1457" height="816" alt="b" src="https://github.com/user-attachments/assets/e281d0c9-177c-45aa-9463-dc7a7bdc05c8" />
+
 - Total Booking Value: ₹11 Million.
 
 - Total Bookings: 20,407.
@@ -21,15 +24,8 @@ This project presents an interactive Power BI dashboard for OLA’s July 2024 da
   ##
   🚗 **Vehicle Type Performance**
   ##
-  | Vehicle Type | Total Booking Value | Successful Bookings | Avg. Distance (km) | Total Distance (km) |
-  | ------------ | ------------------- | ------------------- | ------------------ | ------------------- |
-  | Prime Sedan  | 1,056,843           | 1,852               | 15.27              | 44,971              |
-  | Prime SUV    | 962,248             | 1,784               | 15.19              | 44,726              |
-  | Prime Plus   | 934,879             | 1,680               | 14.87              | 41,461              |
-  | Mini         | 973,646             | 1,801               | 15.72              | 45,055              |
-  | Auto         | 992,781             | 1,813               | 6.21               | 18,122              |
-  | Bike         | 985,073             | 1,854               | 16.16              | 47,644              |
-  | E-Bike       | 994,764             | 1,868               | 15.68              | 46,992              |
+  <img width="1451" height="817" alt="c" src="https://github.com/user-attachments/assets/a2dc586d-021e-4e06-8d18-9510f56502d7" />
+
 
   **Top Performers:**
 
@@ -42,15 +38,8 @@ This project presents an interactive Power BI dashboard for OLA’s July 2024 da
  ##
  💰 Revenue Insights
  ##
-  **Top 5 Customers (by total booking value):**
-| Customer ID | Booking Value |
-| ----------- | ------------- |
-| CID836942   | 3,757         |
-| CID353074   | 3,269         |
-| CID185837   | 3,313         |
-| CID307511   | 3,242         |
-| CID749265   | 3,429         |
-| **Total:**  | **₹17,010**   |
+  <img width="1452" height="817" alt="a" src="https://github.com/user-attachments/assets/e8452631-fa91-4fb8-bfff-0ce60b987d9e" />
+
 
 **Payment Methods:**
 
@@ -64,6 +53,9 @@ This project presents an interactive Power BI dashboard for OLA’s July 2024 da
 ##
 ❌ **Cancellation Analysis**
 ##
+<img width="1478" height="795" alt="d" src="https://github.com/user-attachments/assets/869606fc-5704-4570-b6c7-1f398761d87e" />
+
+
 **Overall Cancellations:** 38% (Driver, Customer & Driver Not Found combined)
 
 **Top Reasons:**
@@ -79,6 +71,9 @@ This project presents an interactive Power BI dashboard for OLA’s July 2024 da
 ##
 ⭐  **Ratings Overview**
 ##
+<img width="1455" height="816" alt="e" src="https://github.com/user-attachments/assets/c51fba3d-36e8-4390-8baf-e9a190c574b1" />
+
+
 - Average Rating: *~4.2 / 5*
 
 - Highest-Rated Vehicle Types: *Prime Sedan & E-Bike*
