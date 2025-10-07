@@ -135,3 +135,10 @@ It helps business teams:
 
 - Enhance customer satisfaction through better service quality.
 
+##
+My Learnings:
+##
+This project has significantly enhanced my analytical skills, particularly in using Power BI for data visualization and analysis. I am now more confident in my ability to transform raw data into meaningful insights that can drive strategic business decisions. This experience has prepared me well for future data analysis projects, and I look forward to applying these skills in more complex and challenging scenarios.
+
+
+
